@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! Here, you'll find an overview of the projects I'
 🔹 **Technologies:** React, TypeScript 
 
 ## 📱 Mobile Development  
-📱 [Foody](https://github.com/organization/project-name)  
+📱 [Foody](https://github.com/foody-fer/foody.git)  
 🔹 **My Role:** Designed and built the UI and navigation system in React Native.
 🔹 **Technologies:** React Native, Typescript, Expo, TailwindCSS  
 
